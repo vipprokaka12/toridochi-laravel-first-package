@@ -1,0 +1,19 @@
+{
+    "name": "toridochi/first-package",
+    "description": "Just a demo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Toridochi\\FirstPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nhut.nt",
+            "email": "nguyentannhut225@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
