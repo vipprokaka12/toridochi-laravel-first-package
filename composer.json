@@ -4,6 +4,10 @@
     "type": "library",
     "license": "MIT",
     "autoload": {
+        "files": [
+            "src/Helpers/TestHelpers.php",
+            "src/LoadingProvider.php"
+        ],
         "psr-4": {
             "Toridochi\\FirstPackage\\": "src/"
         }
