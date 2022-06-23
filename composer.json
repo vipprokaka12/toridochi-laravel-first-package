@@ -1,7 +1,7 @@
 {
     "name": "toridochi/first-package",
     "description": "Just a demo",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
