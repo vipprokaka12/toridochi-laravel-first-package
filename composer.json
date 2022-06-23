@@ -15,11 +15,5 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "github.com/vipprokaka12/toridochi-laravel-first-package.git"
-        }
-    ]
+    "require": {}
 }
